@@ -1,0 +1,28 @@
+.title{
+  text-align: center;
+  font-weight:bold;
+  font-size: 25px;
+  font-family: 'Quicksand', sans-serif;
+}
+.title_q1{
+  display:inline-block;
+  font-size: 25px;
+  color: #f66;
+
+}
+.q1{
+  font-family: 微軟正黑體;
+  font-weight:bold;
+  margin: auto;
+}
+.title_a1{
+  border-left: solid 10px #a9fbd7;
+  padding-left: 10px;
+  font-family: 微軟正黑體;
+
+}
+
+.a1 {
+  max-width: 500px;
+  margin: auto;
+}
